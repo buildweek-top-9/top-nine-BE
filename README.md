@@ -1,6 +1,6 @@
 # top-nine-BE API
 
-## Base URL: https://top-nine.herokuapp.com/
+## Base URL: https://salty-stream-78442.herokuapp.com
 
 ---
 
